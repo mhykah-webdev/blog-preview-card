@@ -145,6 +145,7 @@ a:hover {
 .name {
     font-weight: 800;
     font-size: 0.875rem;
+    line-height: 2rem;
 }
 
 @media (min-width:600px) {
