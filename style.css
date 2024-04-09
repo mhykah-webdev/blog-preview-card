@@ -79,7 +79,6 @@ main {
     place-items: center;
     height: 100vh;
     padding-inline: 1.5rem;
-    font-size: 0.875rem;
 }
 
 .card {
